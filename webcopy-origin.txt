@@ -1,0 +1,288 @@
+Uri: https://platform.experientiallabs.ai/llms.txt
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\llms.txt
+Content Type: text/plain
+
+Uri: https://raw.githubusercontent.com/experientiallabs/experiential/main/SETUP.md
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\experientiallabs\experiential\main\SETUP.md
+Content Type: text/plain
+
+Uri: https://www.experientiallabs.ai/
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\index.htm
+Content Type: text/html
+
+Uri: https://www.experientiallabs.ai/1ms-api
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\1ms-api.html
+Content Type: text/html
+
+Uri: https://www.experientiallabs.ai/agents
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\agents.html
+Content Type: text/html
+
+Uri: https://www.experientiallabs.ai/blog
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\blog.html
+Content Type: text/html
+
+Uri: https://www.experientiallabs.ai/blog/claas
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\blog\claas.html
+Content Type: text/html
+
+Uri: https://www.experientiallabs.ai/blog/cosine-scored-saes
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\blog\cosine-scored-saes.html
+Content Type: text/html
+
+Uri: https://www.experientiallabs.ai/blog/hardened-reliability
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\blog\hardened-reliability.html
+Content Type: text/html
+
+Uri: https://www.experientiallabs.ai/blog/provider-failover
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\blog\provider-failover.html
+Content Type: text/html
+
+Uri: https://www.experientiallabs.ai/case-studies/claims-research
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\case-studies\claims-research.html
+Content Type: text/html
+
+Uri: https://www.experientiallabs.ai/case-studies/computer-use
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\case-studies\computer-use.html
+Content Type: text/html
+
+Uri: https://www.experientiallabs.ai/custom-models
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\custom-models.html
+Content Type: text/html
+
+Uri: https://www.experientiallabs.ai/icon.svg?d749d3cd48f6539d
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.experientiallabs.ai/intelligence
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\intelligence.html
+Content Type: text/html
+
+Uri: https://www.experientiallabs.ai/llms.txt
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\llms-1.txt
+Content Type: text/plain
+
+Uri: https://www.experientiallabs.ai/pricing
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\pricing.html
+Content Type: text/html
+
+Uri: https://www.experientiallabs.ai/privacy
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\privacy.html
+Content Type: text/html
+
+Uri: https://www.experientiallabs.ai/privacy-choices
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\privacy-choices.html
+Content Type: text/html
+
+Uri: https://www.experientiallabs.ai/provider
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\provider.html
+Content Type: text/html
+
+Uri: https://www.experientiallabs.ai/security
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\security.html
+Content Type: text/html
+
+Uri: https://www.experientiallabs.ai/startups
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\startups.html
+Content Type: text/html
+
+Uri: https://www.experientiallabs.ai/terms
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\terms.html
+Content Type: text/html
+
+Uri: https://www.experientiallabs.ai/_next/static/chunks/1255-f1428b930cea336e.js?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\chunks\1255-f1428b930cea336e.js
+Content Type: application/javascript
+
+Uri: https://www.experientiallabs.ai/_next/static/chunks/2619-3c9e02e22d10480a.js?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\chunks\2619-3c9e02e22d10480a.js
+Content Type: application/javascript
+
+Uri: https://www.experientiallabs.ai/_next/static/chunks/3487-7931b834c509233d.js?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\chunks\3487-7931b834c509233d.js
+Content Type: application/javascript
+
+Uri: https://www.experientiallabs.ai/_next/static/chunks/3520-8298ab32c635892f.js?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\chunks\3520-8298ab32c635892f.js
+Content Type: application/javascript
+
+Uri: https://www.experientiallabs.ai/_next/static/chunks/4bd1b696-f785427dddbba9fb.js?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\chunks\4bd1b696-f785427dddbba9fb.js
+Content Type: application/javascript
+
+Uri: https://www.experientiallabs.ai/_next/static/chunks/7621-75597c7cbdcbd319.js?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\chunks\7621-75597c7cbdcbd319.js
+Content Type: application/javascript
+
+Uri: https://www.experientiallabs.ai/_next/static/chunks/7986-e46052f2cafdb995.js?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\chunks\7986-e46052f2cafdb995.js
+Content Type: application/javascript
+
+Uri: https://www.experientiallabs.ai/_next/static/chunks/app/1ms-api/page-a5925c510b53df08.js?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\chunks\app\1ms-api\page-a5925c510b53df08.js
+Content Type: application/javascript
+
+Uri: https://www.experientiallabs.ai/_next/static/chunks/app/agents/page-0f5233d06c1d5c1e.js?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\chunks\app\agents\page-0f5233d06c1d5c1e.js
+Content Type: application/javascript
+
+Uri: https://www.experientiallabs.ai/_next/static/chunks/app/blog/[slug]/page-a5925c510b53df08.js?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\chunks\app\blog\[slug]\page-a5925c510b53df08.js
+Content Type: application/javascript
+
+Uri: https://www.experientiallabs.ai/_next/static/chunks/app/blog/page-a5925c510b53df08.js?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\chunks\app\blog\page-a5925c510b53df08.js
+Content Type: application/javascript
+
+Uri: https://www.experientiallabs.ai/_next/static/chunks/app/case-studies/[study]/page-8ccd1c37c81f442a.js?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\chunks\app\case-studies\[study]\page-8ccd1c37c81f442a.js
+Content Type: application/javascript
+
+Uri: https://www.experientiallabs.ai/_next/static/chunks/app/custom-models/page-e9b7ccfcc0f3a957.js?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\chunks\app\custom-models\page-e9b7ccfcc0f3a957.js
+Content Type: application/javascript
+
+Uri: https://www.experientiallabs.ai/_next/static/chunks/app/intelligence/page-9c40edb0ec50d990.js?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\chunks\app\intelligence\page-9c40edb0ec50d990.js
+Content Type: application/javascript
+
+Uri: https://www.experientiallabs.ai/_next/static/chunks/app/layout-531165a015030331.js?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\chunks\app\layout-531165a015030331.js
+Content Type: application/javascript
+
+Uri: https://www.experientiallabs.ai/_next/static/chunks/app/page-a1bf0d0a3aa97370.js?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\chunks\app\page-a1bf0d0a3aa97370.js
+Content Type: application/javascript
+
+Uri: https://www.experientiallabs.ai/_next/static/chunks/app/pricing/page-4ba3437b4aa53f8b.js?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\chunks\app\pricing\page-4ba3437b4aa53f8b.js
+Content Type: application/javascript
+
+Uri: https://www.experientiallabs.ai/_next/static/chunks/app/privacy-choices/page-d284533210ea28f0.js?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\chunks\app\privacy-choices\page-d284533210ea28f0.js
+Content Type: application/javascript
+
+Uri: https://www.experientiallabs.ai/_next/static/chunks/app/privacy/page-e268860a59b9e90b.js?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\chunks\app\privacy\page-e268860a59b9e90b.js
+Content Type: application/javascript
+
+Uri: https://www.experientiallabs.ai/_next/static/chunks/app/provider/page-b9e54b6f31a12694.js?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\chunks\app\provider\page-b9e54b6f31a12694.js
+Content Type: application/javascript
+
+Uri: https://www.experientiallabs.ai/_next/static/chunks/app/security/page-d6a6fb8ad1607dd2.js?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\chunks\app\security\page-d6a6fb8ad1607dd2.js
+Content Type: application/javascript
+
+Uri: https://www.experientiallabs.ai/_next/static/chunks/app/startups/page-4aa851e1d5874884.js?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\chunks\app\startups\page-4aa851e1d5874884.js
+Content Type: application/javascript
+
+Uri: https://www.experientiallabs.ai/_next/static/chunks/app/terms/page-e268860a59b9e90b.js?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\chunks\app\terms\page-e268860a59b9e90b.js
+Content Type: application/javascript
+
+Uri: https://www.experientiallabs.ai/_next/static/chunks/main-app-5eb0d9c55a395822.js?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\chunks\main-app-5eb0d9c55a395822.js
+Content Type: application/javascript
+
+Uri: https://www.experientiallabs.ai/_next/static/chunks/polyfills-42372ed130431b0a.js?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\chunks\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://www.experientiallabs.ai/_next/static/chunks/webpack-76baff0abbf654b0.js?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\chunks\webpack-76baff0abbf654b0.js
+Content Type: application/javascript
+
+Uri: https://www.experientiallabs.ai/_next/static/css/03ed3c879c7ee217.css?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\css\03ed3c879c7ee217.css
+Content Type: text/css
+
+Uri: https://www.experientiallabs.ai/_next/static/css/09b516d59edf660e.css?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\css\09b516d59edf660e.css
+Content Type: text/css
+
+Uri: https://www.experientiallabs.ai/_next/static/css/11110d6624b41bb4.css?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\css\11110d6624b41bb4.css
+Content Type: text/css
+
+Uri: https://www.experientiallabs.ai/_next/static/css/26a26b4d9d44410c.css?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\css\26a26b4d9d44410c.css
+Content Type: text/css
+
+Uri: https://www.experientiallabs.ai/_next/static/css/29361c4f26d83e24.css?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\css\29361c4f26d83e24.css
+Content Type: text/css
+
+Uri: https://www.experientiallabs.ai/_next/static/css/5e1324a4ca1548ee.css?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\css\5e1324a4ca1548ee.css
+Content Type: text/css
+
+Uri: https://www.experientiallabs.ai/_next/static/css/61b630092a993701.css?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\css\61b630092a993701.css
+Content Type: text/css
+
+Uri: https://www.experientiallabs.ai/_next/static/css/6a811328ad8b97b5.css?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\css\6a811328ad8b97b5.css
+Content Type: text/css
+
+Uri: https://www.experientiallabs.ai/_next/static/css/71ca57737194ba44.css?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\css\71ca57737194ba44.css
+Content Type: text/css
+
+Uri: https://www.experientiallabs.ai/_next/static/css/82a3475ef3693a16.css?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\css\82a3475ef3693a16.css
+Content Type: text/css
+
+Uri: https://www.experientiallabs.ai/_next/static/css/9f685c5d90ae662a.css?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\css\9f685c5d90ae662a.css
+Content Type: text/css
+
+Uri: https://www.experientiallabs.ai/_next/static/css/a1d1e6b88969e764.css?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\css\a1d1e6b88969e764.css
+Content Type: text/css
+
+Uri: https://www.experientiallabs.ai/_next/static/css/cff198b557ada487.css?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\css\cff198b557ada487.css
+Content Type: text/css
+
+Uri: https://www.experientiallabs.ai/_next/static/css/e84bfd1426fbfcc7.css?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\css\e84bfd1426fbfcc7.css
+Content Type: text/css
+
+Uri: https://www.experientiallabs.ai/_next/static/css/fe8da4fff8b421cf.css?dpl=dpl_8eosn63xJSbMk2VfhtNv5wzBkaan
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\css\fe8da4fff8b421cf.css
+Content Type: text/css
+
+Uri: https://www.experientiallabs.ai/_next/static/media/0aa834ed78bf6d07-s.woff2
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\media\0aa834ed78bf6d07-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.experientiallabs.ai/_next/static/media/56069e83bb5b2425-s.woff2
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\media\56069e83bb5b2425-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.experientiallabs.ai/_next/static/media/67957d42bae0796d-s.woff2
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\media\67957d42bae0796d-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.experientiallabs.ai/_next/static/media/886030b0b59bc5a7-s.woff2
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\media\886030b0b59bc5a7-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.experientiallabs.ai/_next/static/media/91601dd83defba07-s.p.woff2
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\media\91601dd83defba07-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.experientiallabs.ai/_next/static/media/939c4f875ee75fbb-s.woff2
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\media\939c4f875ee75fbb-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.experientiallabs.ai/_next/static/media/bb3ef058b751a6ad-s.p.woff2
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\media\bb3ef058b751a6ad-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.experientiallabs.ai/_next/static/media/f911b923c6adde36-s.woff2
+File Name: C:\Downloaded Web Sites\www.experientiallabs.ai\_next\static\media\f911b923c6adde36-s.woff2
+Content Type: font/woff2
+
