@@ -1,12 +1,12 @@
-# Experiential Labs
+# Orqen Labs
 
 > The open source AI gateway. One OpenAI-compatible endpoint
-> (https://api.experientiallabs.ai/v1) in front of every model: hosted providers, your own
+> (https://api.orqenlabs.ai/v1) in front of every model: hosted providers, your own
 > provider keys, and your own local models, at provider list price
 > with 0% token markup. Routing, access control, budgets, and
 > per-agent attribution for everything your agents call.
 
-## When to use Experiential
+## When to use Orqen
 
 Reach for the gateway when you need any of these:
 
@@ -23,20 +23,20 @@ Reach for the gateway when you need any of these:
   train a model you own on your own traffic.
 
 An agent can set itself up: point an OpenAI client at
-https://api.experientiallabs.ai/v1 with an Experiential API key (they start with xpl_), list
+https://api.orqenlabs.ai/v1 with an Orqen API key (they start with orq_), list
 models with GET /v1/models, and call POST /v1/chat/completions.
 The gateway also serves the OpenAI Responses API at /v1/responses
 and the Anthropic Messages API at /v1/messages over the same key.
 Accounts are created instantly from an email; verifying the email
 unlocks platform credits. Keys live at
-https://platform.experientiallabs.ai/settings/api-keys.
+https://platform.orqenlabs.ai/settings/api-keys.
 
 ## Setup prompts (copy-paste into a coding agent)
 
 Four self-contained prompts an agent can run end to end, kept
 verbatim in the open source repo's SETUP.md
-(https://github.com/experientiallabs/experiential/blob/main/SETUP.md,
-raw: https://raw.githubusercontent.com/experientiallabs/experiential/main/SETUP.md):
+(https://github.com/orqenlabs/orqen/blob/main/SETUP.md,
+raw: https://raw.githubusercontent.com/orqenlabs/orqen/main/SETUP.md):
 
 1. Upload your LLM traces as telemetry: creates the account from
    your local email and lands existing traces on the platform
@@ -50,44 +50,44 @@ raw: https://raw.githubusercontent.com/experientiallabs/experiential/main/SETUP.
    agent repointing in one pass
 
 The machine-readable API contract (honored and refused parameters,
-error codes, streaming caveats) is https://platform.experientiallabs.ai/llms.txt. Follow it
+error codes, streaming caveats) is https://platform.orqenlabs.ai/llms.txt. Follow it
 literally.
 
 ## Pages
 
-- [Home](https://www.experientiallabs.ai/): what the gateway is and how it works
-- [Pricing](https://www.experientiallabs.ai/pricing): Free ($0/month, your keys and local
+- [Home](https://www.orqenlabs.ai/): what the gateway is and how it works
+- [Pricing](https://www.orqenlabs.ai/pricing): Free ($0/month, your keys and local
   models) and Pro (0% markup, pay as you route); enterprise custom
-- [Startup deal](https://www.experientiallabs.ai/startups): up to $10,000 in usage credits by
+- [Startup deal](https://www.orqenlabs.ai/startups): up to $10,000 in usage credits by
   application (welcome credit on signup, the rest after review)
-- [Providers](https://www.experientiallabs.ai/provider): onboard your inference endpoints
+- [Providers](https://www.orqenlabs.ai/provider): onboard your inference endpoints
   to the gateway; you set the price, traffic routes on merit
-- [Intelligence](https://www.experientiallabs.ai/intelligence): the optimization layer:
+- [Intelligence](https://www.orqenlabs.ai/intelligence): the optimization layer:
   the right model per agent, caching suggestions, lowest-cost
   routing, load balancing, prompt compression, and a model you own
-- [Custom models](https://www.experientiallabs.ai/custom-models): training a model for
+- [Custom models](https://www.orqenlabs.ai/custom-models): training a model for
   your workload, the evaluation contract, ownership, and serving
-- [Security](https://www.experientiallabs.ai/security): the controls an enterprise review
+- [Security](https://www.orqenlabs.ai/security): the controls an enterprise review
   checks for, with honest statuses; SOC 1
-- [Blog](https://www.experientiallabs.ai/blog): research writeups
-- [Case study: computer use](https://www.experientiallabs.ai/case-studies/computer-use)
-- [Case study: claims research](https://www.experientiallabs.ai/case-studies/claims-research)
+- [Blog](https://www.orqenlabs.ai/blog): research writeups
+- [Case study: computer use](https://www.orqenlabs.ai/case-studies/computer-use)
+- [Case study: claims research](https://www.orqenlabs.ai/case-studies/claims-research)
 
 ## Developer resources
 
-- API base URL: https://api.experientiallabs.ai/v1 (OpenAI-compatible; also /v1/responses and
+- API base URL: https://api.orqenlabs.ai/v1 (OpenAI-compatible; also /v1/responses and
   the Anthropic Messages API at /v1/messages)
-- Setup prompts: https://github.com/experientiallabs/experiential/blob/main/SETUP.md
-- Machine-readable API contract: https://platform.experientiallabs.ai/llms.txt
-- Docs: https://platform.experientiallabs.ai/docs
-- Model catalog: https://platform.experientiallabs.ai/models
-- Dashboard (keys, credits, usage): https://platform.experientiallabs.ai
-- Open source gateway: https://github.com/experientiallabs/experiential
-- CLI: the experiential package on PyPI; run the gateway locally
-  with `uvx --from experiential exp run`
+- Setup prompts: https://github.com/orqenlabs/orqen/blob/main/SETUP.md
+- Machine-readable API contract: https://platform.orqenlabs.ai/llms.txt
+- Docs: https://platform.orqenlabs.ai/docs
+- Model catalog: https://platform.orqenlabs.ai/models
+- Dashboard (keys, credits, usage): https://platform.orqenlabs.ai
+- Open source gateway: https://github.com/orqenlabs/orqen
+- CLI: the orqen package on PyPI; run the gateway locally
+  with `uvx --from orqen exp run`
 
 ## Contact
 
-- Book a call: https://cal.com/silen/experiential-intro
-- Email: silen@experientiallabs.ai
+- Book a call: https://cal.com/silen/orqen-intro
+- Email: silen@orqenlabs.ai
 - Discord: https://discord.gg/B6sM8xTVwU
